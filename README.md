@@ -1,4 +1,4 @@
-# -WIP-Running-Analysis-User-engagement-with-Nike-fitness-app-with-GenAI
+# -WIP-Running-Analysis-with-GenAI-User-engagement-on-Nike-fitness-app
 # Background 
 Nike Run Club is a free fitness and activity tracking app for runners at all levels. The app functions as a running coach, community, and fitness tracker, claiming to be "everything you need to start running, keep running, and enjoy running more."
 
